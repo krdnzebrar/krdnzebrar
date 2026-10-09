@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi 👋 I’m Ebrar
 
-<!--
-**krdnzebrar/krdnzebrar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Computer Engineering student at **Boğaziçi University** 🇹🇷
+* Software Engineering Intern at **Google** 🇬🇧
+* Interested in **Machine Learning**, **Computer Vision**, and **Natural Language Processing**.
 
-Here are some ideas to get you started:
+**Current Works**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔬 Exploring Turkish morphology and word generation with language models.
+* 💻 Working on software engineering and computer vision projects.
+* 📚 Exploring research opportunities in machine learning and related fields.
+
+**Previously:**
+
+* SWE Intern — **Google Health, UK** (2026)
+* STEP Intern — **Google Cloud, Ireland** (2025)
+
